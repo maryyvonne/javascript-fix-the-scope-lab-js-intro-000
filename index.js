@@ -31,4 +31,4 @@ var funkyFunction = function() {
 // NOTE: you only nee'd to modify the code below this line.
 
 var theFunk = funkyFunction();
-funkyFunction();
+theFunk
